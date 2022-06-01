@@ -23,3 +23,6 @@ Punching [Z] or Kicking [X] works in air, and Kicking [X] works while crouched t
 You can cancel the first punch with a jump.
 
 The middle of the screen is a placeholder "dummy", which the character will always face towards. This dummy does not react to player actions. You can jump over this to cross it.
+
+
+Some animations make the character move out of place from the camera (jumping punch [Z], hurricane kick [Z] & [X]), these were left in intentionally and mentioned in the prototype retrospective.
